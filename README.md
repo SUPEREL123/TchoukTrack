@@ -1,3 +1,6 @@
+Click the link to try it out!
+https://tchouktrack-by-evan.streamlit.app/
+
 Objective:
 The objective of my project is to introduce and promote the sport of tchoukball using an innovative AI model. I believe this AI model is the world's first specifically designed for tchoukball, aimed at increasing awareness and interest in the sport.
 
